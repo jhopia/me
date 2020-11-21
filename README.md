@@ -31,8 +31,10 @@ I am an experienced Product and Technology leader with a demonstrated history of
 Working for a company that values Culture, Psychological Saftey, Continuous Learning, and giving a high integrity resource an opportunity to show value through Outcomes and Objectives.  
 
 If you have opportunties in the following areas, hit me up, email is below.
+- Software Engineering Leadership
 - Devops work
 - Technical Project Manager work
+- Agile Coaching
 - Digital Transformation Consultation work
 - Data Analysis
 
