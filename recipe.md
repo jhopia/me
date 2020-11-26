@@ -3,11 +3,6 @@ added on 11/26/2020 - COVID Thanksgiving
 
 ## Ingredients:
 
-    CA Dept of Public Health
-    Sponsored by CA Dept of Public Health
-    Why Are Smokers Hit Harder by COVID-19?
-    Cigarette smoke damages your lungs, making it harder to cope with COVID-19. It's not too late to quit. Let's do it.
-    See More
     Pan drippings from Easy Thanksgiving Turkey
     1/4 cup unsalted butter
     1/4 cup all-purpose flour
@@ -15,7 +10,7 @@ added on 11/26/2020 - COVID Thanksgiving
     1 tablespoon chopped fresh parsley leaves
     Kosher salt and freshly ground black pepper, to taste
 
-    Directions:
+## Directions:
 
     Strain pan drippings through a fine-mesh sieve; discard solids and reserve 2 1/2 cups pan drippings; set aside.
     Melt butter in a medium saucepan over medium heat. Whisk in flour and thyme until lightly browned, about 1 minute.
