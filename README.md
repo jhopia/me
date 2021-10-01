@@ -1,9 +1,9 @@
 # Jay D. Hopia
 
-Currently accepting engagements for employment.
+Found some new homes!
 
 # About Me
-Recently due to COVID-19, my tenure in the Travel Industry has been impacted dramatically.   I have been at [CWT (primary subsidiary of Carlson in Minnetonka, MN)](https://www.mycwt.com) since my first gig out of college, just short of 24 years. 
+I have been at [CWT (primary subsidiary of Carlson in Minnetonka, MN)](https://www.mycwt.com) since my first gig out of college, dating back to 1996. 
 
 I find motivation and passion behind building high performing engineering teams, being involved in an engineering cultured company and open by default approach to communications.  I have experience in influencing cultures on teams I have worked on that have tenants of trust, default to open, customer focused, winning spirit, product mindset, and cost consciousness. 
 
@@ -62,7 +62,10 @@ If you have opportunties in the following areas, hit me up, email is below.
 - Via strong leadership partnership, worked to enable Developer Experience improvements, Open Source Program Office, and enabling DevOps Services that would be consumed by our 500 engineers to help deliver solutions
 
 2020
-- Covid impact personally and have been on a personal development journey on career next steps.
+- Covid impact personally and have been on a personal development journey on career next steps, back at CWT August of 2021.
+
+2021
+- Working with FerskTech on a greenfield startup solution, very exciting opportunity!
 
 # If you are Interested
 Something must of caught your eye, thank you for continuing to read my personal journey.
