@@ -60,7 +60,7 @@ If you have opportunties in the following areas, hit me up, email is below.
 - Enabled corporate change to Innersource concepts via GitHub
 - Enabled company wide technology conference globally in 2017 - 2020 with over 130+ internal presenters speaking technical concepts every 6 months via internal DevOps Day event.
 - 2x Culture Ambassador Champion
-- Performed Public Speaking at Open Source North, GitHub Meetup, and Twin Cities Agile Days.
+- Performed Public Speaking at Open Source North, GitHub Meetup, and [Twin Cities Agile Days](https://www.agiledaytwincities.com/presentation-recaps/).
 - Participated in Hackathons working to enable [Grimoire Labs](https://chaoss.github.io/grimoirelab/) against our GitHub organization to understand how well we are using Innersource Concepts
 - Via strong leadership partnership, worked to enable Developer Experience improvements, Open Source Program Office, and enabling DevOps Services that would be consumed by our 500 engineers to help deliver solutions
 
