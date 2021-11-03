@@ -1,6 +1,6 @@
 # Jay D. Hopia
 
-Found some new homes!
+Technology and Ice Hockey nut!
 
 # About Me
 I have been at [CWT (was primary subsidiary of Carlson in Minnetonka, MN until late 2021)](https://www.mycwt.com) since my first gig out of college, dating back to 1996. 
