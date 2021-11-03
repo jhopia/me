@@ -3,7 +3,7 @@
 Found some new homes!
 
 # About Me
-I have been at [CWT (primary subsidiary of Carlson in Minnetonka, MN)](https://www.mycwt.com) since my first gig out of college, dating back to 1996. 
+I have been at [CWT (was primary subsidiary of Carlson in Minnetonka, MN until late 2021)](https://www.mycwt.com) since my first gig out of college, dating back to 1996. 
 
 I find motivation and passion behind building high performing engineering teams, being involved in an engineering cultured company and open by default approach to communications.  I have experience in influencing cultures on teams I have worked on that have tenants of trust, default to open, customer focused, winning spirit, product mindset, and cost consciousness. 
 
@@ -26,6 +26,9 @@ I am an experienced Product and Technology leader with a demonstrated history of
 - JavaScript
 - Multiple JS Frameworks
 - Bash
+- Empathy
+- Relationships
+- OUTCOME DRIVEN
 
 # What I Am Looking For
 Working for a company that values Culture, Psychological Saftey, Continuous Learning, and giving a high integrity resource an opportunity to show value through Outcomes and Objectives.  
@@ -66,6 +69,7 @@ If you have opportunties in the following areas, hit me up, email is below.
 
 2021
 - Working with FerskTech on a greenfield startup solution, very exciting opportunity!
+- Back at CWT and leading our APAC, LATAM, and NORAM Financial Corporate Systems...
 
 # If you are Interested
 Something must of caught your eye, thank you for continuing to read my personal journey.
