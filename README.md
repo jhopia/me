@@ -3,7 +3,7 @@
 Technology and Ice Hockey nut!
 
 # About Me
-I have been at [CWT (was primary subsidiary of Carlson in Minnetonka, MN until late 2021)](https://www.mycwt.com) since my first gig out of college, dating back to 1996. 
+I have been at [CWT (was primary subsidiary of Carlson in Minnetonka, MN until late 2021)](https://www.mycwt.com) for some time and also have been assisting with a Local Minnesota Startup creating a Node.js/Java application leveraging Cloud and Managed Services in AWS, with Terraform.
 
 I find motivation and passion behind building high performing engineering teams, being involved in an engineering cultured company and open by default approach to communications.  I have experience in influencing cultures on teams I have worked on that have tenants of trust, default to open, customer focused, winning spirit, product mindset, and cost consciousness. 
 
