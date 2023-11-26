@@ -1,10 +1,8 @@
 # Jay D. Hopia
 
-Technology and Ice Hockey nut!
+Technology and Ice Hockey nut, but I also LOVE my family very much!
 
 # About Me
-I have been at [CWT (was primary subsidiary of Carlson in Minnetonka, MN until late 2021)](https://www.mycwt.com) for some time and also have been assisting with a Local Minnesota Startup creating a Node.js/Java application leveraging Cloud and Managed Services in AWS, with Terraform.
-
 I find motivation and passion behind building high performing engineering teams, being involved in an engineering cultured company and open by default approach to communications.  I have experience in influencing cultures on teams I have worked on that have tenants of trust, default to open, customer focused, winning spirit, product mindset, and cost consciousness. 
 
 I truly love teams and organization culture, thus my entire career has been with the same company developing and leading teams in building Technology Solutions for the Travel Industry, these teams range from Software Development to Operation teams.   
@@ -12,17 +10,16 @@ I truly love teams and organization culture, thus my entire career has been with
 I am an experienced Product and Technology leader with a demonstrated history of being outcome driven.  I am a proven performance-driven leader, who has led and implemented transformative technology strategies across a Global Technology organization and I am extremely passionate about culture!
 
 # Continuous Learning - Really focusing hard on personal hands on, as my team did a ton of it.
-- AWS CLI
+- AWS CLI - DONE
 - AWS Associate Architect Certification
-- Terraform
+- Terraform - DONE
 - Ansible
 - Python
-- Containers
-- Kubernetes
+- Containers - DONE
+- Kubernetes - DONE
 - HTML
 - CSS
-- JSON
-- YAML
+- YAML - DONE
 - JavaScript
 - Multiple JS Frameworks
 - Bash
@@ -30,7 +27,7 @@ I am an experienced Product and Technology leader with a demonstrated history of
 - Relationships
 - OUTCOME DRIVEN
 
-# What I Am Looking For
+# If I am OPEN, What I Am Looking For
 Working for a company that values Culture, Psychological Saftey, Continuous Learning, and giving a high integrity resource an opportunity to show value through Outcomes and Objectives.  
 
 If you have opportunties in the following areas, hit me up, email is below.
@@ -70,6 +67,12 @@ If you have opportunties in the following areas, hit me up, email is below.
 2021
 - Working with FerskTech on a greenfield startup solution, very exciting opportunity!
 - Back at CWT and leading our APAC, LATAM, and NORAM Financial Corporate Systems...
+
+2022
+-Left CWT and joined Ziff Davis and the iContact Email Marketing team
+
+2023
+-Thrilled to be at Thrivent, working in the Illustrations Product, with a great team.  Thrivent is going through a Digital Transformation and have many teams adopting a Product Operating Model, love the company, my team, and the vibe!
 
 # If you are Interested
 Something must of caught your eye, thank you for continuing to read my personal journey.
